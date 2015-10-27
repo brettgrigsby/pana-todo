@@ -38,7 +38,7 @@ body {
 }
 
 #todoapp input[type="text"] {
-	width: 500px;
+	width: 745px;
 	font-size: 24px;
 	font-family: inherit;
 	line-height: 1.4em;
@@ -212,8 +212,4 @@ body {
 
 #ui-datepicker-div {
     background-color: white;
-}
-
-.ui-datepicker-next {
-    text-align: right;
 }
